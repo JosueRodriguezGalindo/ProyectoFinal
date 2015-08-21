@@ -1,16 +1,4 @@
 ﻿
-  /* Programa:    clienteCS.cs
-
-   Compilar: 	mcs clienteCS.cs localhost  --compilador mono
-   Ejecutar:	mono clienteCS.exe
-   
-   Objetivo:    Implementar el modelo cliente-servidor utilizando sockets, en Lenguaje C#. El programa cliente enviará 
-		al sevidor un número, y el servidor determinará si es par, si es primo, calculará la sumatoria y el
-		factorial del número, y el n'esimo término de la serie de fibonaci, y enviará los resultados al cliente,
-		quien imprimirá los resultados
-                 
-    Autor:      Mayra Leticia Lizarraga Camberos
-*/
 
 using System;
 using System.Collections.Generic;
